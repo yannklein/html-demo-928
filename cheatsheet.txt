@@ -1,20 +1,17 @@
 
 background-color: #e0ecfa;
-color: #022929;
+color: #7b8cde;
 color: #dfb156;
 background-color: #e6230548;
 
-width: 400px;
-margin: 56px auto;
-box-shadow: 0px 8px 16px rgb(0 0 0 / 20%);
-padding: 32px 56px;
+font-family: 'Bebas Neue', cursive;
 
-'Pacifico', cursive;
+<p>I love bouldering, signing karaoke songs and coding with Ruby.</p>
+I love <strong>eating bouldering 🧗‍♀️</strong>
+I love <strong>eating karaoke 🎤</strong>
+I love <strong>coding with Ruby 💎</strong>
 
-<p>I love eating Chocolate, using futuristic chopsticks  and coding with Ruby.</p>
-I love <strong>eating Chocolate 🏐</strong>
-
-https://futurism.com/the-byte/electric-chopsticks-taste
+https://www.instagram.com/nonaka_miho/
 
 I am really passionate about it. I'm literally living for it. True story.
 

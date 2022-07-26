@@ -1,11 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 body {
   font-family: 'Open Sans', sans-serif;
+  /* background-color: #7b8cde; */
+  background: #355C7D;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(45deg, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(45deg, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+  font-size: 64px;
+  margin: 0px;
+  margin-bottom: 32px;
 }
 
 h1, h2 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Bebas Neue', cursive;
 }
 
 a {
@@ -14,10 +26,10 @@ a {
 
 /* Customized style */
 .card-orange {
-  background-color: #f1a03c98;
+  background-color: white;
   width: 400px;
   margin: 40px auto;
-  padding: 16px 24px;
+  padding: 32px;
   text-align: center;
   box-shadow: 0px 8px 16px rgb(0 0 0 / 30%);
   /* margin: 48px; */
@@ -28,7 +40,9 @@ img.img-circle {
   border-radius: 50%;
   height: 160px;
   object-fit: cover;
-  object-position: 44% 50%;
+  object-position: 100% 50%;
+  box-shadow: 0px 8px 16px rgb(0 0 0 / 90%);
+
 }
 
 a.btn-green {
@@ -36,11 +50,11 @@ a.btn-green {
   border-radius: 4px;
   display: inline-block;
   color: rgb(240,240,240);
-  background-color: #275F57;
+  background-color: #DE5E62;
 }
 
 a.btn-green:hover {
-  background-color: #DF5F11;
+  background-color: #DE5E62;
   color: rgb(40,40,40);
   transition: .3s;
 }
