@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Pacifico&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Pacifico', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Customized style */
+.card-orange {
+  background-color: #f1a03c98;
+  width: 400px;
+  margin: 40px auto;
+  padding: 16px 24px;
+  text-align: center;
+  box-shadow: 0px 8px 16px rgb(0 0 0 / 30%);
+  /* margin: 48px; */
+}
+
+img.img-circle {
+  width: 160px;
+  border-radius: 50%;
+  height: 160px;
+  object-fit: cover;
+  object-position: 44% 50%;
+}
+
+a.btn-green {
+  padding: 16px 24px;
+  border-radius: 4px;
+  display: inline-block;
+  color: rgb(240,240,240);
+  background-color: #275F57;
+}
+
+a.btn-green:hover {
+  background-color: #DF5F11;
+  color: rgb(40,40,40);
+  transition: .3s;
+}
+
+ul.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+ul.list-inline li {
+  display: inline;
+}
+
+ul.list-inline a {
+  font-size: 64px;
+  color: rgba(100,100,100);
+}

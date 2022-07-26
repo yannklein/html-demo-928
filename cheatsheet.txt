@@ -1,0 +1,24 @@
+
+background-color: #e0ecfa;
+color: #022929;
+color: #dfb156;
+background-color: #e6230548;
+
+width: 400px;
+margin: 56px auto;
+box-shadow: 0px 8px 16px rgb(0 0 0 / 20%);
+padding: 32px 56px;
+
+'Pacifico', cursive;
+
+<p>I love eating Chocolate, using futuristic chopsticks  and coding with Ruby.</p>
+I love <strong>eating Chocolate 🏐</strong>
+
+https://futurism.com/the-byte/electric-chopsticks-taste
+
+I am really passionate about it. I'm literally living for it. True story.
+
+<!-- control + cmd + space -->
+<!-- windows + , -->
+
+<script src="https://kit.fontawesome.com/3926274332.js" 
